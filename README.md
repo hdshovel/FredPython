@@ -1,0 +1,2 @@
+# FredPython
+Scripts em Python
